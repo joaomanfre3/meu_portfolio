@@ -103,9 +103,10 @@ animateParticles();
 const phrases = [
   'Desenvolvedor Fullstack',
   'Engenharia da Computação',
-  'Soluções Web para Empresas',
-  'Python | TypeScript | PHP',
-  'Docker | PostgreSQL | Neon'
+  'Soluções Web e Mobile para Empresas',
+  'Next.js | TypeScript | React Native',
+  'PostgreSQL | Neon | Drizzle | Prisma',
+  'Vercel | Docker | Better Auth'
 ];
 
 let phraseIndex = 0;
