@@ -101,12 +101,12 @@ animateParticles();
 
 // ===== TYPING EFFECT =====
 const phrases = [
-  'Desenvolvedor Fullstack',
-  'Engenharia da Computação',
-  'Soluções Web e Mobile para Empresas',
-  'Next.js | TypeScript | React Native',
-  'PostgreSQL | Neon | Drizzle | Prisma',
-  'Vercel | Docker | Better Auth'
+  'AI-Augmented Fullstack Developer',
+  '13 projetos reais. 5 em produção.',
+  'Web · Mobile · Desktop',
+  'Next.js | TypeScript | React Native | Tauri',
+  'SaaS multi-tenant · OAuth 2.0 · RBAC · Payments',
+  'IA como motor de execução, não muleta.'
 ];
 
 let phraseIndex = 0;
