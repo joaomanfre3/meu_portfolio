@@ -102,7 +102,8 @@ animateParticles();
 // ===== TYPING EFFECT =====
 const phrases = [
   'AI-Augmented Fullstack Developer',
-  '13 projetos reais. 5 em produção.',
+  '50+ projetos entregues. 5 em produção.',
+  'Entrego em dias o que levaria meses.',
   'Web · Mobile · Desktop',
   'Next.js | TypeScript | React Native | Tauri',
   'SaaS multi-tenant · OAuth 2.0 · RBAC · Payments',
